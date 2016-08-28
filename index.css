@@ -1,15 +1,31 @@
-#body{
+body{
 	background:ivory;
 }
-#navcol{
+#nav{
 	background:#6fc98a;
 }
-#p1{
-	color:black;
-	font-size:30px;
-}
 #img1{
-	max-width:50px;
-	max-height:50px;
+	max-height:75px;
+	max-width:75px;
 }
+#text{
+	font-size:40px;
+}
+#past{
+	text-align:center;
+	position:relative;
+	top:200px;
+}
+#cur{
+	text-align:center;
+	position:relative;
+	top:250px;
+}
+
+//upcoming events page
+#card{
+	background:#6fc98a;
+}
+//past events page
+
 
